@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/exo2" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/exo3" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/exo4" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/exo5" includeSubdirectories="true" />
+    </excludeFromCompile>
+  </component>
+</project>
