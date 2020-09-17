@@ -1,10 +1,10 @@
 package exo2;
 
-import static org.junit.Assert.*;
+import junit.framework.Assert;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
 import java.util.List;
-
-import org.junit.*;
 
 
 public class SearchTI {
